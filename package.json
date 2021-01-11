@@ -1,0 +1,27 @@
+{
+  "name": "ejstemplate",
+  "version": "1.0.0",
+  "description": "demo template feature in ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieugq/Express-ejs-tamplate.git"
+  },
+  "keywords": [
+    "ejs",
+    "ejs-template"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieugq/Express-ejs-tamplate/issues"
+  },
+  "homepage": "https://github.com/hieugq/Express-ejs-tamplate#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
