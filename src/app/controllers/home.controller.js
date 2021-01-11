@@ -1,7 +1,7 @@
 class Home {
 
     index(req, res){
-        res.render('head')
+        res.render('home', {message: "Home controller"});
     }
 }
 
