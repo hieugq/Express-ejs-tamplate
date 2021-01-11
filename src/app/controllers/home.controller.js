@@ -1,7 +1,7 @@
 class Home {
 
     index(req, res){
-        res.send('Welcom to my app');
+        res.render('head')
     }
 }
 
